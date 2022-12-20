@@ -1,4 +1,6 @@
-# 시험 파이팅!
+<div align="center">
+<img src="https://user-images.githubusercontent.com/75781414/208727312-52832ff7-265d-47ca-8021-efc267767c83.gif" />
+</div>
 
 <!--
 
