@@ -15,7 +15,7 @@
 ## 둘러보기
 <div>
   <a href="https://www.instagram.com/pknu_wap/"><img alt="Instagram" src="https://img.shields.io/badge/WAP 인스타그램-0?&style=for-the-badge&logo=instagram&logoColor=FFFFFF&color=E4405F"/></a>
-  <a href="https://lightning-winter-222.notion.site/About-WAP-d0f17eecc7ac4957a0bfc7efaa8caa15"><img alt="Notion" src="https://img.shields.io/badge/WAP 노션-0?&style=for-the-badge&logo=notion&logoColor=FFFFFF&color=000000"/></a><br>
+  <a href="https://2024wap.notion.site/About-WAP-d0f17eecc7ac4957a0bfc7efaa8caa15"><img alt="Notion" src="https://img.shields.io/badge/WAP 노션-0?&style=for-the-badge&logo=notion&logoColor=FFFFFF&color=000000"/></a><br>
 </div>
 
 <!--
